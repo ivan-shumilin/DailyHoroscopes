@@ -1,1 +1,1 @@
-# DailyHoroscopes
+сайт с API для чтения данных
